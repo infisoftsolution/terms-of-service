@@ -1,167 +1,142 @@
-📄 TERMS OF SERVICE
+# Terms of Service
 
-Last updated: December 2025
+**Last updated: December 2025**
 
-These Terms of Service (“Terms”) govern your access to and use of the Sleep Sounds mobile application (“App”), operated by Infisoft Solution (“we,” “our,” or “us”).
+These Terms of Service ("Terms") govern your access to and use of the **Sleep Sounds** mobile application (the "App"), operated by **Infisoft Solution** ("we", "our", or "us").
 
 By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
 
-1. Eligibility
+---
 
-The App is intended for users 12 years of age or older.
+## 1. Eligibility
 
-If you are under the age of 18, you confirm that you have permission from a parent or legal guardian to use the App. Parents or guardians are responsible for supervising use by minors.
+The App is intended for users **12 years of age or older**.
 
-2. Description of the Service
+If you are under 18 years old, you confirm that you have permission from a parent or legal guardian to use the App. Parents or guardians are responsible for monitoring the use of the App by minors.
+
+---
+
+## 2. Description of the Service
 
 The App provides:
+- Sleep, relaxation, and ambient audio content  
+- Sound mixing and playlist functionality  
+- Free and premium features accessible through in-app purchases  
 
-Sleep, relaxation, and ambient audio content
+The App is designed for **general wellness and relaxation purposes only**.
 
-Sound mixing and playlist features
+---
 
-Free and premium content accessible via in-app purchases
+## 3. Health & Wellness Disclaimer
 
-The App is designed for general wellness and relaxation purposes only.
+The App is **not a medical device** and does not provide medical advice, diagnosis, or treatment.
 
-3. Health & Wellness Disclaimer
+- Sleep results may vary from person to person  
+- The App should not be used as a substitute for professional medical advice  
+- If you have a medical condition or sleep disorder, consult a qualified healthcare professional  
 
-The App is not a medical device and does not provide medical advice, diagnosis, or treatment.
+---
 
-Sleep results may vary from person to person
+## 4. User Responsibilities
 
-The App should not replace professional medical advice
+You agree to use the App only for **personal, non-commercial purposes**.
 
-Consult a qualified healthcare provider if you experience ongoing sleep or health issues
+You agree **not to**:
+- Copy, record, reproduce, modify, distribute, or sell any audio or content from the App  
+- Extract or reuse sounds for commercial or public use  
+- Reverse-engineer, decompile, or attempt to access the App’s source code  
+- Use the App in violation of any applicable laws or regulations  
 
-4. User Responsibilities
+---
 
-You agree to:
+## 5. Intellectual Property & Copyright
 
-Use the App for personal, non-commercial use only
+All content within the App — including but not limited to:
+- Audio files and sound mixes  
+- Visual design, UI elements, and branding  
+- Logos, icons, and trademarks  
 
-Comply with all applicable laws and regulations
+is the **exclusive property of Infisoft Solution** and is protected by copyright and intellectual property laws.
 
-Not misuse, disrupt, or interfere with the App
+🚫 **Unauthorized copying, recording, redistribution, or reuse of any sounds or content is strictly prohibited** and may result in legal action.
 
-You agree NOT to:
+---
 
-Copy, reproduce, distribute, sell, license, or exploit any audio or content
+## 6. Subscriptions & In-App Purchases
 
-Record, extract, or redistribute sounds from the App
+The App may offer monthly, yearly, or lifetime premium subscriptions.
 
-Reverse-engineer, decompile, or attempt to access source code
+- Payments are processed securely through the **Apple App Store**  
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period  
+- Pricing may vary based on region  
+- Refunds are managed exclusively by Apple in accordance with their policies  
 
-Use the App for illegal or unauthorized purposes
+We do not control Apple’s billing or refund processes.
 
-5. Intellectual Property & Copyright
+---
 
-All content in the App — including but not limited to:
-
-Audio files
-
-Sound mixes
-
-Visual designs
-
-Logos, icons, and branding
-
-— is fully owned by Infisoft Solution and protected by copyright and intellectual property laws.
-
-🚫 No sound, audio, or content may be copied, reused, shared, or redistributed in any form without prior written permission.
-
-Unauthorized use may result in legal action.
-
-6. Subscriptions & In-App Purchases
-
-The App may offer:
-
-Monthly, yearly, or lifetime premium subscriptions
-
-Important points:
-
-Payments are processed through Apple App Store
-
-Subscriptions automatically renew unless canceled at least 24 hours before the renewal period
-
-Pricing may vary by region
-
-Refunds are managed exclusively by Apple
-
-We do not control Apple’s billing or refund policies.
-
-7. Free & Premium Content
+## 7. Free & Premium Content
 
 Some features and sounds are available for free, while others require a premium subscription.
 
 We reserve the right to:
+- Modify, add, or remove content  
+- Change feature availability  
+- Adjust pricing or subscription plans at any time  
 
-Modify, add, or remove content
+---
 
-Change which content is free or premium
+## 8. Third-Party Services
 
-Update pricing and plans at any time
+The App may use third-party services for analytics, performance monitoring, or distribution.
 
-8. Third-Party Services
+We are not responsible for the availability, functionality, or policies of third-party services.
 
-The App may rely on third-party services (such as analytics or app store services).
+---
 
-We are not responsible for:
+## 9. Service Availability
 
-Third-party service availability
+We strive to provide reliable access to the App, but we do not guarantee uninterrupted or error-free operation.
 
-Changes in their policies or functionality
+The App or its features may be modified, suspended, or discontinued at any time without notice.
 
-9. Service Availability
+---
 
-We strive to keep the App available at all times, but:
+## 10. Limitation of Liability
 
-We do not guarantee uninterrupted access
-
-Features may change, be suspended, or discontinued
-
-Maintenance or updates may affect availability
-
-10. Limitation of Liability
-
-To the maximum extent permitted by law:
-
-Infisoft Solution shall not be liable for:
-
-Any indirect, incidental, or consequential damages
-
-Loss of data, profits, or usage
-
-Health, sleep, or wellness outcomes related to App use
+To the maximum extent permitted by law, **Infisoft Solution** shall not be liable for:
+- Any indirect, incidental, or consequential damages  
+- Loss of data, profits, or business opportunities  
+- Health, sleep, or wellness outcomes resulting from App usage  
 
 Use of the App is at your own risk.
 
-11. Termination
+---
 
-We reserve the right to:
+## 11. Termination
 
-Suspend or terminate access to the App
+We reserve the right to suspend or terminate your access to the App if you violate these Terms or misuse the App.
 
-Restrict use for violations of these Terms
+Termination may occur without prior notice.
 
-Termination may occur without prior notice if misuse is detected.
+---
 
-12. Changes to These Terms
+## 12. Changes to These Terms
 
 We may update these Terms from time to time.
 
-Updates will be posted on this page
+Updated versions will be published on this page. Continued use of the App after changes indicates acceptance of the revised Terms.
 
-Continued use of the App means acceptance of the updated Terms
+---
 
-13. Governing Law
+## 13. Governing Law
 
-These Terms shall be governed by and interpreted in accordance with the laws of India, without regard to conflict-of-law principles.
+These Terms shall be governed by and interpreted in accordance with the laws of **India**, without regard to conflict of law principles.
 
-14. Contact Information
+---
 
-For questions, support, or legal inquiries:
+## 14. Contact Information
 
-📧 Email: nbowdeveloper@gmail.com
+If you have questions or concerns about these Terms, you may contact us at:
 
-✅
+📧 **Email:** nbowdeveloper@gmail.com
