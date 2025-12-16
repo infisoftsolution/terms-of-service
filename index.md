@@ -73,6 +73,12 @@ The App may offer monthly, yearly, or lifetime premium subscriptions.
 
 We do not control Apple’s billing or refund processes.
 
+PLANS :
+
+Monthly  - 1.99$ 
+Yearly - 9.99$
+Lifetime - 14.99$
+
 ---
 
 ## 7. Free & Premium Content
