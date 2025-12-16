@@ -2,7 +2,7 @@
 
 **Last updated: December 2025**
 
-These Terms of Service ("Terms") govern your access to and use of the **Sleep Sounds** mobile application (the "App"), operated by **Infisoft Solution** ("we", "our", or "us").
+These Terms of Service ("Terms") govern your access to and use of the **OWL - Sleep Sounds** mobile application (the "App"), operated by **JAYESH DABHI** ("we", "our", or "us").
 
 By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
 
